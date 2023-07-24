@@ -1,0 +1,41 @@
+74B4A5ABAF031C3CC6E53F7CFBAC45A659677C52 wallet-app-1.0.1-full.nupkg 325987077
+
+
+term ancient cabin style width syrup rack crouch evolve social wedding cement copy flame vessel diet boring often upgrade quality turtle beach response broom
+
+
+
+T94JmLle-JVBEHmoT!96r=!6A0!Rh!DD
+
+XFZSZC
+
+
+
+SRB
+--disable-cpu --algorithm blake3_ironfish --pool de.ironfish.herominers.com:1145 --wallet e0d7aea989f2afb57e52e9b163bd194e9baddca4abd2c93aa6f5d52ad5190785.lyon
+
+Bz
+-a ironfish -w e0d7aea989f2afb57e52e9b163bd194e9baddca4abd2c93aa6f5d52ad5190785.lyon -p stratum+tcp://de.ironfish.herominers.com:1145
+
+
+Rigel
+-a ironfish -o stratum+tcp://de.ironfish.herominers.com:1145 -u e0d7aea989f2afb57e52e9b163bd194e9baddca4abd2c93aa6f5d52ad5190785 -w lyon 
+
+
+e0d7aea989f2afb57e52e9b163bd194e9baddca4abd2c93aa6f5d52ad5190785
+
+
+
+Deleting account 'grulles'... done
+Account 'grulles' successfully deleted.
+root@ironnode:~#  ironfish wallet:create dgilles
+Creating account dgilles
+Account dgilles created with public address 602f3c9b7aaaf2dc256ee59be6655827a5cac076675aabfc7539702007061cf1
+The default account is now: dgilles
+root@ironnode:~# ironfish wallet:use dgilles
+The default account is now: dgilles
+root@ironnode:~# ironfish wallet:export dgilles
+ironfishaccount0000010v38vetjwd5k7m3z8gezcgnwv9kk2g36yfjxw6tvd3jhxg3vyfehqetwv35kue6tv4ujyw3z8yurscfsvd3nqvnrvcuxxwtrvv6nwct9xs6rvdrrxf3kgvejvfnxyvty8qexzcmzxe3kyenrx4jrwdrz8pnxvveex43nxd3svvmnyvpz9s38v6t9wa9k27fz8g3rjenrv9jxzd3h89jkvwpnv93n2vf4vejxyvfh8pjnwefhx56rydp4vcunvd35ve3nwvp48p3rsvrxxgmnydenxy6k2dmyv33n2wfsx4nrzwrzvgervcnrxfjnxwfkvvensdmzxc6kgenrvc6nswfnv9nxzvfe8q6kgvnxx5urzvfnxpsnvvehxgcnvetpx9snjve489jrvd3nygkzy6twvdhk66twvatxjethfdjhjg36ygex2wf58y6rgdmrxvekxvtzxcunzdrrxdsnqde3vd3kzve5xqurzcn9vgukvwrx8qmnzdmrvcmkgwr9x9jnzef3vvmkvvfexqmkxvpsygkzymm4w3nk76twvatxjethfdjhjg36ygek2vpev9jrwcmrvfjxydnrvf3ryerzxd3xzvtyxscnzefkxqcrswfnv3jnqetx8pjnveryxc6kxdejvgurzcfjxcmkyctz8qukgepkygkzyur4vfkxjc6pv3j8yetnwv3r5g3kxqexvvmr893rwctpv9nryerrxg6nvet9x5ukyefkxc6n2wpjxasn2cmpvvcrwd3kxu6kzctzve3nwdfn8ymnqv3sxqmnqd33vdnrzg3vyf3hyetpw3jkgst5ygaxuatvd37sacjxmf
+root@ironnode:~# ironfish wallet:export --mnemonic
+Detected Language as 'English', exporting:
+obtain expire copy fly milk tower gadget silk gospel biology erosion legal budget betray color obey shift ripple token transfer found race broken acquire
